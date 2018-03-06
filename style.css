@@ -1,0 +1,23 @@
+div {
+}
+
+p {
+	margin-left: 100px;
+}
+
+.box{
+}
+
+#nav {
+	text-align: right;
+}
+
+#content {
+margin: 0 auto;
+width: 90%;
+}
+
+#footer {
+text-align: center;
+margin-top: 100px;
+}
