@@ -2,22 +2,38 @@ div {
 }
 
 p {
-	margin-left: 100px;
+}
+
+h2 {
 }
 
 .box{
 }
 
+#Top{
+	width: 100%;
+	text-align: center;
+}
+
 #nav {
-	text-align: right;
+}
+
+#nav li {
+	list-style: none;
+	display: inline;
+	padding: 10px;
+}
+
+#nav ul {
 }
 
 #content {
-margin: 0 auto;
-width: 90%;
+	margin: 0 auto;
+	width: 50%;
+	text-align: center;
 }
 
 #footer {
-text-align: center;
-margin-top: 100px;
+	text-align: center;
+	margin-top: 100px;
 }
