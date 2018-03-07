@@ -7,30 +7,31 @@ p {
 h2 {
 }
 
+a {
+	margin-left: 50px;
+}
+
+h1 {
+	display: inline;
+}
+
 .box{
 }
 
 #Top{
 	width: 100%;
-	text-align: center;
 }
 
 #nav {
-}
-
-#nav li {
-	list-style: none;
-	display: inline;
-	padding: 10px;
-}
-
-#nav ul {
+	float: right;
+	margin: 7px 40px 0 0;
 }
 
 #content {
 	margin: 0 auto;
 	width: 50%;
 	text-align: center;
+	clear: both;
 }
 
 #footer {
