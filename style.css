@@ -1,29 +1,42 @@
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
-
 div {
 }
 
 body {
 	background-color: #8b8ca0;
-	font-family: 'Noto Serif', serif;
 }
 
 p {
+	margin-left: 50px;
 }
 
 h2 {
 }
 
 a {
-	margin-left: 50px;
 }
 
 h1 {
-	display: inline;
 	font-size: 60px;
+	text-align: center;
 }
 
-.box{
+.box {
+}
+
+.button {
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	color: black;
+}
+
+a.button {
+	text-decoration: none;
+}
+
+a:hover {
+	color: blue;
 }
 
 #Top{
@@ -31,15 +44,10 @@ h1 {
 }
 
 #nav {
-	float: right;
-	margin: 20px 40px 0 0;
+	text-align: center;
 }
 
 #content {
-	margin: 0 auto;
-	width: 50%;
-	text-align: center;
-	clear: both;
 }
 
 #footer {
